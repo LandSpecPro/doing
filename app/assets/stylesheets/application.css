@@ -9,5 +9,9 @@
  * compiled file, but it's generally better to create a new file per style scope.
  *
  *= require_self
+ *= require jqm-demos
+ *= require blue-theme.min
+ *= require jquery.mobile.structure-1.3.2.min
+ *= require bootstrap.min
  *= require_tree .
  */

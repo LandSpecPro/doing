@@ -1,4 +1,11 @@
 Doing::Application.routes.draw do
+
+  # Set the root index
+  root :to => 'todos#index'
+
+  resource :todo
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

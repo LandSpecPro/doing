@@ -12,4 +12,8 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require angular.min
+//= require jquery-1.9.1.min
+//= require jquery.mobile-1.3.2.min
+//= require bootstrap.min
 //= require_tree .
